@@ -1,0 +1,9 @@
+{
+  "firebase": "taipei-obj",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
